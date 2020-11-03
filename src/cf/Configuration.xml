@@ -189,6 +189,11 @@
 		<ChildObjects>
 			<Language>Русский</Language>
 			<SessionParameter>ТекущийПользователь</SessionParameter>
+			<Role>Администратор</Role>
+			<Role>ЧтениеДокументов</Role>
+			<Role>ЧтениеКонтрагентов</Role>
+			<Role>ИзменениеДокументов</Role>
+			<Role>ИзменениеКонтрагентов</Role>
 			<CommonModule>РаботаСПользователем</CommonModule>
 			<Catalog>Валюты</Catalog>
 			<Catalog>Организации</Catalog>
