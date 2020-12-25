@@ -195,6 +195,9 @@
 			<Role>ИзменениеДокументов</Role>
 			<Role>ИзменениеКонтрагентов</Role>
 			<CommonModule>РаботаСПользователем</CommonModule>
+			<CommonModule>ПолнотекстовыйПоискПоСодержимомуФайлов</CommonModule>
+			<CommonModule>РаботаСФайламиКлиентСервер</CommonModule>
+			<ScheduledJob>ОбновлениеИндексаФайлов</ScheduledJob>
 			<Catalog>Валюты</Catalog>
 			<Catalog>Организации</Catalog>
 			<Catalog>Подразделения</Catalog>
@@ -205,6 +208,7 @@
 			<Catalog>Файлы</Catalog>
 			<Catalog>ВнутренниеДокументы</Catalog>
 			<Catalog>ВидыДокументов</Catalog>
+			<DataProcessor>ЗапускОбновленияИндексаТекстовыхФайлов</DataProcessor>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>

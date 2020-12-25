@@ -62,12 +62,13 @@
 			<ChoiceDataGetModeOnInputByString>Directly</ChoiceDataGetModeOnInputByString>
 			<DefaultObjectForm>Catalog.Файлы.Form.ФормаЭлемента</DefaultObjectForm>
 			<DefaultFolderForm/>
-			<DefaultListForm/>
+			<DefaultListForm>Catalog.Файлы.Form.ФормаСписка</DefaultListForm>
 			<DefaultChoiceForm/>
 			<DefaultFolderChoiceForm/>
 			<AuxiliaryObjectForm/>
 			<AuxiliaryFolderForm/>
 			<AuxiliaryListForm/>
+			<AuxiliaryChoiceForm/>
 			<AuxiliaryChoiceForm/>
 			<AuxiliaryFolderChoiceForm/>
 			<IncludeHelpInContents>false</IncludeHelpInContents>
@@ -168,6 +169,7 @@
 				</Properties>
 			</Attribute>
 			<Form>ФормаЭлемента</Form>
+			<Form>ФормаСписка</Form>
 		</ChildObjects>
 	</Catalog>
 </MetaDataObject>
