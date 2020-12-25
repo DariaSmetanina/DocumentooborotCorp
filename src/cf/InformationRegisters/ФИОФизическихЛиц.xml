@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.10">
+	<InformationRegister uuid="648a7fff-0454-4dbf-acd6-8494c95b9105">
+		<InternalInfo>
+			<xr:GeneratedType name="InformationRegisterRecord.ФИОФизическихЛиц" category="Record">
+				<xr:TypeId>cbc4292d-c190-407c-b17b-1b0367a9ed1b</xr:TypeId>
+				<xr:ValueId>85280891-7dc5-4b79-8c72-141cf3322749</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="InformationRegisterManager.ФИОФизическихЛиц" category="Manager">
+				<xr:TypeId>8a2c07fc-1203-416b-acec-baab0336ead6</xr:TypeId>
+				<xr:ValueId>9e286f42-6e6d-4b7c-bc2a-0f2c6d58d12c</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="InformationRegisterSelection.ФИОФизическихЛиц" category="Selection">
+				<xr:TypeId>abfff835-7c49-42a1-976d-321ca74838d6</xr:TypeId>
+				<xr:ValueId>89dc516f-b55b-4aa5-acac-3b9f69f60554</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="InformationRegisterList.ФИОФизическихЛиц" category="List">
+				<xr:TypeId>1a79749b-e971-4c28-9d09-0fad39a68538</xr:TypeId>
+				<xr:ValueId>203a6e4c-c24f-4e37-a495-ac178975ec0a</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="InformationRegisterRecordSet.ФИОФизическихЛиц" category="RecordSet">
+				<xr:TypeId>e5e368e8-6bd2-40c9-88d1-443a2ad163d1</xr:TypeId>
+				<xr:ValueId>38aabc5f-36e4-4bd1-88ba-a46e03d89544</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="InformationRegisterRecordKey.ФИОФизическихЛиц" category="RecordKey">
+				<xr:TypeId>06b6b3dc-4584-46b8-9771-32b064de8a67</xr:TypeId>
+				<xr:ValueId>05d1ba3f-0acd-452f-9e65-11a1f966604e</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="InformationRegisterRecordManager.ФИОФизическихЛиц" category="RecordManager">
+				<xr:TypeId>3ff6d0cd-38cf-4a67-b37d-a684c8f7edeb</xr:TypeId>
+				<xr:ValueId>c47a17d7-f47e-48ab-98a5-4a3340efc928</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<Name>ФИОФизическихЛиц</Name>
+			<Synonym>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>ФИОФизических лиц</v8:content>
+				</v8:item>
+			</Synonym>
+			<Comment/>
+			<UseStandardCommands>true</UseStandardCommands>
+			<EditType>InDialog</EditType>
+			<DefaultRecordForm/>
+			<DefaultListForm/>
+			<AuxiliaryRecordForm/>
+			<AuxiliaryListForm/>
+			<InformationRegisterPeriodicity>Nonperiodical</InformationRegisterPeriodicity>
+			<WriteMode>Independent</WriteMode>
+			<MainFilterOnPeriod>false</MainFilterOnPeriod>
+			<IncludeHelpInContents>false</IncludeHelpInContents>
+			<DataLockControlMode>Managed</DataLockControlMode>
+			<FullTextSearch>DontUse</FullTextSearch>
+			<EnableTotalsSliceFirst>false</EnableTotalsSliceFirst>
+			<EnableTotalsSliceLast>false</EnableTotalsSliceLast>
+			<RecordPresentation/>
+			<ExtendedRecordPresentation/>
+			<ListPresentation/>
+			<ExtendedListPresentation/>
+			<Explanation/>
+			<DataHistory>DontUse</DataHistory>
+			<UpdateDataHistoryImmediatelyAfterWrite>false</UpdateDataHistoryImmediatelyAfterWrite>
+			<ExecuteAfterWriteDataHistoryVersionProcessing>false</ExecuteAfterWriteDataHistoryVersionProcessing>
+		</Properties>
+		<ChildObjects/>
+	</InformationRegister>
+</MetaDataObject>
