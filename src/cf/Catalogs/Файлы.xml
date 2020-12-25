@@ -69,7 +69,6 @@
 			<AuxiliaryFolderForm/>
 			<AuxiliaryListForm/>
 			<AuxiliaryChoiceForm/>
-			<AuxiliaryChoiceForm/>
 			<AuxiliaryFolderChoiceForm/>
 			<IncludeHelpInContents>false</IncludeHelpInContents>
 			<BasedOn/>
