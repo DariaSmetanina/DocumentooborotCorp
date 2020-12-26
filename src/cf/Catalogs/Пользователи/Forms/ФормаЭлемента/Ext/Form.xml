@@ -37,6 +37,11 @@
 				<Event name="OnChange">НаименованиеПриИзменении</Event>
 			</Events>
 		</InputField>
+		<InputField name="Подразделение" id="13">
+			<DataPath>Объект.Подразделение</DataPath>
+			<ContextMenu name="ПодразделениеКонтекстноеМеню" id="14"/>
+			<ExtendedTooltip name="ПодразделениеРасширеннаяПодсказка" id="15"/>
+		</InputField>
 	</ChildItems>
 	<Attributes>
 		<Attribute name="Объект" id="1">
