@@ -209,6 +209,7 @@
 			<Catalog>Файлы</Catalog>
 			<Catalog>ВнутренниеДокументы</Catalog>
 			<Catalog>ВидыДокументов</Catalog>
+			<Catalog>Проекты</Catalog>
 			<Enum>ПеречислениеСогласован</Enum>
 			<DataProcessor>ЗапускОбновленияИндексаТекстовыхФайлов</DataProcessor>
 			<InformationRegister>ФИОФизическихЛиц</InformationRegister>
