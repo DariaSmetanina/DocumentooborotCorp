@@ -221,6 +221,7 @@
 			<InformationRegister>ФИОФизическихЛиц</InformationRegister>
 			<AccumulationRegister>ЗатратыПоПроектам</AccumulationRegister>
 			<ChartOfCharacteristicTypes>СтатьиЗатратПоПроектам</ChartOfCharacteristicTypes>
+			<Task>ЗадачиПользователя</Task>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
