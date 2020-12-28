@@ -45,6 +45,26 @@
 			<ContextMenu name="ПользовательКонтекстноеМеню" id="20"/>
 			<ExtendedTooltip name="ПользовательРасширеннаяПодсказка" id="21"/>
 		</InputField>
+		<InputField name="Запрос" id="31">
+			<DataPath>Объект.Запрос</DataPath>
+			<ContextMenu name="ЗапросКонтекстноеМеню" id="32"/>
+			<ExtendedTooltip name="ЗапросРасширеннаяПодсказка" id="33"/>
+		</InputField>
+		<InputField name="Комментарий" id="28">
+			<DataPath>Объект.Комментарий</DataPath>
+			<ContextMenu name="КомментарийКонтекстноеМеню" id="29"/>
+			<ExtendedTooltip name="КомментарийРасширеннаяПодсказка" id="30"/>
+		</InputField>
+		<InputField name="БизнесПроцесс" id="25">
+			<ContextMenu name="БизнесПроцессКонтекстноеМеню" id="26"/>
+			<ExtendedTooltip name="БизнесПроцессРасширеннаяПодсказка" id="27"/>
+		</InputField>
+		<CheckBoxField name="ПроверкаПройдена" id="22">
+			<DataPath>Объект.Executed</DataPath>
+			<CheckBoxType>Auto</CheckBoxType>
+			<ContextMenu name="ПроверкаПройденаКонтекстноеМеню" id="23"/>
+			<ExtendedTooltip name="ПроверкаПройденаРасширеннаяПодсказка" id="24"/>
+		</CheckBoxField>
 	</ChildItems>
 	<Attributes>
 		<Attribute name="Объект" id="1">
